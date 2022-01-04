@@ -1,0 +1,4 @@
+﻿  tanchishe.cpp
+d:\panjianmin的编程\c语言\绘图\绘图\tanchishe.cpp(115): warning C4102: “defaut”: 未引用的标签
+d:\panjianmin的编程\c语言\绘图\绘图\tanchishe.cpp(120): warning C4715: “Sudu”: 不是所有的控件路径都返回值
+  绘图.vcxproj -> D:\panjianmin的编程\c语言\绘图\Debug\绘图.exe
